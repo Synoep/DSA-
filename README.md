@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Synoep/DSA-/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/Synoep/DSA-/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Synoep/DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Synoep/DSA-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Synoep/DSA-/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Synoep/DSA-/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/Synoep/DSA-/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Synoep/DSA-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Synoep/DSA-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Synoep/DSA-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Array
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Synoep/DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Synoep/DSA-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Synoep/DSA-/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Synoep/DSA-/tree/master/1477-product-of-the-last-k-numbers) |
+## Greedy
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Synoep/DSA-/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
