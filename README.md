@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Synoep/DSA-/tree/master/1160-letter-tile-possibilities) |
+| [2434-design-a-number-container-system](https://github.com/Synoep/DSA-/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Synoep/DSA-/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Synoep/DSA-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Synoep/DSA-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/Synoep/DSA-/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Synoep/DSA-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Synoep/DSA-/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Sorting
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Synoep/DSA-/tree/master/1477-product-of-the-last-k-numbers) |
+| [2434-design-a-number-container-system](https://github.com/Synoep/DSA-/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Synoep/DSA-/tree/master/2456-construct-smallest-number-from-di-string) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Synoep/DSA-/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
