@@ -18,20 +18,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Synoep/DSA-/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/Synoep/DSA-/tree/master/0257-binary-tree-paths) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Synoep/DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Synoep/DSA-/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/Synoep/DSA-/tree/master/0257-binary-tree-paths) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Synoep/DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Synoep/DSA-/tree/master/0101-symmetric-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Synoep/DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Synoep/DSA-/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/Synoep/DSA-/tree/master/0257-binary-tree-paths) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Synoep/DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Synoep/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1160-letter-tile-possibilities](https://github.com/Synoep/DSA-/tree/master/1160-letter-tile-possibilities) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Synoep/DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/Synoep/DSA-/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/Synoep/DSA-/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Synoep/DSA-/tree/master/2448-count-number-of-bad-pairs) |
@@ -102,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Synoep/DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Synoep/DSA-/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Synoep/DSA-/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
