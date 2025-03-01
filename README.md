@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Synoep/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Synoep/DSA-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Synoep/DSA-/tree/master/0036-valid-sudoku) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Synoep/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0432-all-oone-data-structure](https://github.com/Synoep/DSA-/tree/master/0432-all-oone-data-structure) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Synoep/DSA-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Synoep/DSA-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Synoep/DSA-/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Synoep/DSA-/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Synoep/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Synoep/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/Synoep/DSA-/tree/master/0908-middle-of-the-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Synoep/DSA-/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Synoep/DSA-/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Synoep/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Synoep/DSA-/tree/master/0024-swap-nodes-in-pairs) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Synoep/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Synoep/DSA-/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Synoep/DSA-/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Synoep/DSA-/tree/master/0859-design-circular-deque) |
