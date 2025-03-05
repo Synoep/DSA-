@@ -9,9 +9,6 @@ public:
             } else if (pos2 != string::npos) {
                 s.erase(pos2, 2);
             }
-
-            cout << "Inside Loop : " << s << endl;
-
             pos1 = s.find("AB");
             pos2 = s.find("CD");
         }
