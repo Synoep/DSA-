@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Synoep/DSA-/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Synoep/DSA-/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Synoep/DSA-/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Synoep/DSA-/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Synoep/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Synoep/DSA-/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Synoep/DSA-/tree/master/0135-candy) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Synoep/DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Synoep/DSA-/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Synoep/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Synoep/DSA-/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Synoep/DSA-/tree/master/0234-palindrome-linked-list) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Synoep/DSA-/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Synoep/DSA-/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Synoep/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Synoep/DSA-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Synoep/DSA-/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Synoep/DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Synoep/DSA-/tree/master/0142-linked-list-cycle-ii) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Synoep/DSA-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Synoep/DSA-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Synoep/DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Synoep/DSA-/tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/Synoep/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Synoep/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/Synoep/DSA-/tree/master/0376-wiggle-subsequence) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Synoep/DSA-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Synoep/DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Synoep/DSA-/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
