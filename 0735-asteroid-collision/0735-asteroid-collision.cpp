@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
-        std::stack<int> stack;
+        stack<int> stack;
 
         for (int a : asteroids) {
             if (a > 0) {
