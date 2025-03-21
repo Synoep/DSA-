@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Synoep/DSA-/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Synoep/DSA-/tree/master/3643-zero-array-transformation-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Synoep/DSA-/tree/master/3750-closest-equal-element-queries) |
+| [3795-zero-array-transformation-iv](https://github.com/Synoep/DSA-/tree/master/3795-zero-array-transformation-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Synoep/DSA-/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Synoep/DSA-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Synoep/DSA-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3795-zero-array-transformation-iv](https://github.com/Synoep/DSA-/tree/master/3795-zero-array-transformation-iv) |
 ## Recursion
 |  |
 | ------- |
