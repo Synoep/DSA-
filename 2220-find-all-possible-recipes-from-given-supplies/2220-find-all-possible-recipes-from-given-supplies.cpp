@@ -1,38 +1,29 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     vector<string> findAllRecipes(vector<string>& recipes, vector<vector<string>>& ingredients, vector<string>& supplies) {
-        unordered_map<string, vector<string>> graph; 
-        unordered_map<string, int> indegree; 
-        unordered_set<string> available(supplies.begin(), supplies.end());
-        vector<string> result;
-
-
-        for (int i = 0; i < recipes.size(); i++) {
-            string recipe = recipes[i];
-            indegree[recipe] = ingredients[i].size();
-
-            for (string& ing : ingredients[i]) {
-                graph[ing].push_back(recipe);
-            }
+        //i can run here n2
+        int n=ingredients.size();
+        unordered_map<string,int> mpp;
+        for(auto it:supplies){
+            mpp[it]=1;
         }
-        queue<string> q(supplies.begin(), supplies.end());
-        while (!q.empty()) {
-            string item = q.front();
-            q.pop();
-            if (!graph.count(item)) continue;
-
-            for (string& recipe : graph[item]) {
-                indegree[recipe]--;
-                if (indegree[recipe] == 0) {
-                    result.push_back(recipe);
-                    q.push(recipe);
+        vector<string> ans;
+        //set<string> st;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                bool f=true;
+                for(int k=0;k<ingredients[j].size();k++){
+                    if(mpp.find(ingredients[j][k]) == mpp.end()) {
+                        f=false;
+                        break;
+                    }
+                }
+                if(f && (mpp.find(recipes[j]) == mpp.end())){
+                    ans.push_back(recipes[j]);
+                    mpp[recipes[j]]=1;
                 }
             }
         }
-
-        return result;
-    }
+        return ans;
+    }
 };
