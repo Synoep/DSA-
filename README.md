@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Synoep/DSA-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Synoep/DSA-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/Synoep/DSA-/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Synoep/DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Synoep/DSA-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Synoep/DSA-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Synoep/DSA-/tree/master/2308-divide-array-into-equal-pairs) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Synoep/DSA-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Synoep/DSA-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Synoep/DSA-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Synoep/DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Synoep/DSA-/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Synoep/DSA-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Synoep/DSA-/tree/master/2649-count-total-number-of-colored-cells) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Synoep/DSA-/tree/master/0016-3sum-closest) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Synoep/DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Synoep/DSA-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/Synoep/DSA-/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Synoep/DSA-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Synoep/DSA-/tree/master/0036-valid-sudoku) |
 | [0733-flood-fill](https://github.com/Synoep/DSA-/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Synoep/DSA-/tree/master/1036-rotting-oranges) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Synoep/DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Synoep/DSA-/tree/master/3227-find-missing-and-repeated-values) |
 ## Graph
 |  |
