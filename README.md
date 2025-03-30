@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Synoep/DSA-/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Synoep/DSA-/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Synoep/DSA-/tree/master/0424-longest-repeating-character-replacement) |
+| [0768-partition-labels](https://github.com/Synoep/DSA-/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Synoep/DSA-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Synoep/DSA-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Synoep/DSA-/tree/master/1160-letter-tile-possibilities) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Synoep/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Synoep/DSA-/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/Synoep/DSA-/tree/master/0496-next-greater-element-i) |
+| [0768-partition-labels](https://github.com/Synoep/DSA-/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Synoep/DSA-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Synoep/DSA-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/Synoep/DSA-/tree/master/0966-binary-subarrays-with-sum) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Synoep/DSA-/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/Synoep/DSA-/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/Synoep/DSA-/tree/master/0402-remove-k-digits) |
+| [0768-partition-labels](https://github.com/Synoep/DSA-/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Synoep/DSA-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Synoep/DSA-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Synoep/DSA-/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Synoep/DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Synoep/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Synoep/DSA-/tree/master/0234-palindrome-linked-list) |
+| [0768-partition-labels](https://github.com/Synoep/DSA-/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Synoep/DSA-/tree/master/0908-middle-of-the-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Synoep/DSA-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Synoep/DSA-/tree/master/2265-partition-array-according-to-given-pivot) |
