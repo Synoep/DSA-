@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Synoep/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0368-largest-divisible-subset](https://github.com/Synoep/DSA-/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Synoep/DSA-/tree/master/0376-wiggle-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Synoep/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Synoep/DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Synoep/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/Synoep/DSA-/tree/master/0733-flood-fill) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Synoep/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0368-largest-divisible-subset](https://github.com/Synoep/DSA-/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Synoep/DSA-/tree/master/0376-wiggle-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Synoep/DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Synoep/DSA-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Synoep/DSA-/tree/master/0943-sum-of-subarray-minimums) |
 | [1170-shortest-common-supersequence](https://github.com/Synoep/DSA-/tree/master/1170-shortest-common-supersequence) |
