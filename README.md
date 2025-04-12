@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Synoep/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Synoep/DSA-/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Synoep/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Synoep/DSA-/tree/master/0257-binary-tree-paths) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Synoep/DSA-/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Synoep/DSA-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Synoep/DSA-/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Synoep/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Synoep/DSA-/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Synoep/DSA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Synoep/DSA-/tree/master/0733-flood-fill) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Synoep/DSA-/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Synoep/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Synoep/DSA-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Synoep/DSA-/tree/master/0733-flood-fill) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Synoep/DSA-/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Synoep/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Synoep/DSA-/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Synoep/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Synoep/DSA-/tree/master/0257-binary-tree-paths) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Synoep/DSA-/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Synoep/DSA-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
