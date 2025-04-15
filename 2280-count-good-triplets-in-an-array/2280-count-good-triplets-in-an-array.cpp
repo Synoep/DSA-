@@ -6,7 +6,6 @@ public:
         for (int i = 0; i < n; ++i) {
             pos[nums2[i]] = i;
         }
-
         vector<int> mapped(n);
         for (int i = 0; i < n; ++i) {
             mapped[i] = pos[nums1[i]];
