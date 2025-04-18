@@ -1,26 +1,21 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        if(n==1)
-            return "1";
-        if(n==2)
-            return "11";
-        string str = "11";
-        for(int i=3; i<=n ;i++){
+        if (n == 1) return "1"; 
+        string res = "1";
+        for (int k =2;k<=n; k++) {
             string temp = "";
-            str = str+"&"; 
-            int cnt = 1;
-            for(int j = 1; j<str.length(); j++){
-                if(str[j]!=str[j-1]){
-                    temp =temp+to_string(cnt); 
-                    temp =temp+str[j-1]; 
-                    cnt=1; 
+            int cnt =1;
+            for (int i=0; i<res.size();i++) {
+                if (i<res.size()-1&& res[i] == res[i+1]) cnt++;
+                else {
+                    temp +=to_string(cnt); 
+                    temp +=res[i];         
+                    cnt=1;               
                 }
-                else cnt++; 
             }
-            str = temp;
+            res=temp; 
         }
-        
-    return str;
+        return res;
     }
 };
