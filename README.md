@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Synoep/DSA-/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/Synoep/DSA-/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Synoep/DSA-/tree/master/0735-asteroid-collision) |
+| [0797-rabbits-in-forest](https://github.com/Synoep/DSA-/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/Synoep/DSA-/tree/master/0859-design-circular-deque) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Synoep/DSA-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Synoep/DSA-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Synoep/DSA-/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/Synoep/DSA-/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/Synoep/DSA-/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Synoep/DSA-/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Synoep/DSA-/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Synoep/DSA-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Synoep/DSA-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Synoep/DSA-/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/Synoep/DSA-/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Synoep/DSA-/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/Synoep/DSA-/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Synoep/DSA-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Synoep/DSA-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Synoep/DSA-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Synoep/DSA-/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/Synoep/DSA-/tree/master/0402-remove-k-digits) |
 | [0768-partition-labels](https://github.com/Synoep/DSA-/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Synoep/DSA-/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Synoep/DSA-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Synoep/DSA-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Synoep/DSA-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
