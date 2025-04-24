@@ -1,8 +1,8 @@
 int K;
 
 struct Node {
-  array<long long, 5> cnt;  // pre[x] = numbers of prefixes whose product % k == x
-  int prod;  // prod = product % k
+  array<long long, 5> cnt;  
+  int prod; 
   Node() : prod(1) {
       for (int i = 0; i < 5; i++) cnt[i] = 0;
   }
