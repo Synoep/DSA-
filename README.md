@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Synoep/DSA-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Synoep/DSA-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Synoep/DSA-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/Synoep/DSA-/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Synoep/DSA-/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Synoep/DSA-/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Synoep/DSA-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Synoep/DSA-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Synoep/DSA-/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Synoep/DSA-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/Synoep/DSA-/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Synoep/DSA-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Synoep/DSA-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Synoep/DSA-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Synoep/DSA-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Synoep/DSA-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2249-count-the-hidden-sequences](https://github.com/Synoep/DSA-/tree/master/2249-count-the-hidden-sequences) |
+| [2915-count-of-interesting-subarrays](https://github.com/Synoep/DSA-/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Synoep/DSA-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Synoep/DSA-/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
