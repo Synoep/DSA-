@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Synoep/DSA-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3750-closest-equal-element-queries](https://github.com/Synoep/DSA-/tree/master/3750-closest-equal-element-queries) |
 | [3795-zero-array-transformation-iv](https://github.com/Synoep/DSA-/tree/master/3795-zero-array-transformation-iv) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Synoep/DSA-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/Synoep/DSA-/tree/master/3840-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Synoep/DSA-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Synoep/DSA-/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Synoep/DSA-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Synoep/DSA-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Synoep/DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/Synoep/DSA-/tree/master/3643-zero-array-transformation-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Synoep/DSA-/tree/master/3750-closest-equal-element-queries) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Synoep/DSA-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Geometry
 |  |
 | ------- |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Synoep/DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Synoep/DSA-/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Synoep/DSA-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/Synoep/DSA-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
