@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Synoep/DSA-/tree/master/1036-rotting-oranges) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Synoep/DSA-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Synoep/DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Synoep/DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Synoep/DSA-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Synoep/DSA-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Synoep/DSA-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Synoep/DSA-/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Synoep/DSA-/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Synoep/DSA-/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Synoep/DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Synoep/DSA-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Synoep/DSA-/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Synoep/DSA-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
