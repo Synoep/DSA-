@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Synoep/DSA-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Synoep/DSA-/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Synoep/DSA-/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/Synoep/DSA-/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Synoep/DSA-/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Synoep/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Synoep/DSA-/tree/master/0149-max-points-on-a-line) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Synoep/DSA-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Synoep/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Synoep/DSA-/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Synoep/DSA-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Synoep/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Synoep/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Synoep/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -629,5 +631,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Synoep/DSA-/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Synoep/DSA-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
