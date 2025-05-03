@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Synoep/DSA-/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Synoep/DSA-/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Synoep/DSA-/tree/master/1036-rotting-oranges) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Synoep/DSA-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Synoep/DSA-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Synoep/DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Synoep/DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Synoep/DSA-/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Synoep/DSA-/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Synoep/DSA-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Synoep/DSA-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Synoep/DSA-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Synoep/DSA-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Synoep/DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
