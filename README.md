@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Synoep/DSA-/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/Synoep/DSA-/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Synoep/DSA-/tree/master/0166-fraction-to-recurring-decimal) |
+| [0179-largest-number](https://github.com/Synoep/DSA-/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Synoep/DSA-/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Synoep/DSA-/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Synoep/DSA-/tree/master/0402-remove-k-digits) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Synoep/DSA-/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Synoep/DSA-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Synoep/DSA-/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Synoep/DSA-/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Synoep/DSA-/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Synoep/DSA-/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Synoep/DSA-/tree/master/0416-partition-equal-subset-sum) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Synoep/DSA-/tree/master/0016-3sum-closest) |
 | [0164-maximum-gap](https://github.com/Synoep/DSA-/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Synoep/DSA-/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Synoep/DSA-/tree/master/0368-largest-divisible-subset) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Synoep/DSA-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Synoep/DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Synoep/DSA-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Synoep/DSA-/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Synoep/DSA-/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/Synoep/DSA-/tree/master/0179-largest-number) |
 | [0376-wiggle-subsequence](https://github.com/Synoep/DSA-/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/Synoep/DSA-/tree/master/0402-remove-k-digits) |
 | [0768-partition-labels](https://github.com/Synoep/DSA-/tree/master/0768-partition-labels) |
