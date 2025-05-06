@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Synoep/DSA-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3750-closest-equal-element-queries](https://github.com/Synoep/DSA-/tree/master/3750-closest-equal-element-queries) |
 | [3795-zero-array-transformation-iv](https://github.com/Synoep/DSA-/tree/master/3795-zero-array-transformation-iv) |
+| [3833-merge-operations-for-minimum-travel-time](https://github.com/Synoep/DSA-/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Synoep/DSA-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/Synoep/DSA-/tree/master/3840-find-x-value-of-array-ii) |
 ## Hash Table
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Synoep/DSA-/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Synoep/DSA-/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Synoep/DSA-/tree/master/3643-zero-array-transformation-ii) |
+| [3833-merge-operations-for-minimum-travel-time](https://github.com/Synoep/DSA-/tree/master/3833-merge-operations-for-minimum-travel-time) |
 ## Greedy
 |  |
 | ------- |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/Synoep/DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3795-zero-array-transformation-iv](https://github.com/Synoep/DSA-/tree/master/3795-zero-array-transformation-iv) |
 | [3801-count-beautiful-numbers](https://github.com/Synoep/DSA-/tree/master/3801-count-beautiful-numbers) |
+| [3833-merge-operations-for-minimum-travel-time](https://github.com/Synoep/DSA-/tree/master/3833-merge-operations-for-minimum-travel-time) |
 ## Recursion
 |  |
 | ------- |
