@@ -1,25 +1,23 @@
 class Solution {
 public:
-    int d(int ind,vector<int> &nums,vector<int> &dp){
-        if(ind==0) return nums[ind];
-        if(ind<0) return 0;
-        if(dp[ind]!=-1) return dp[ind];
-
-        int take=nums[ind]+d(ind-2,nums,dp);
-        int non=d(ind-1,nums,dp);
-        return dp[ind]=max(take,non);
-    }
     int rob(vector<int>& nums) {
-        // memo
+        // Tabulation
         int n=nums.size();
         if(n==1) return nums[0];
         vector<int>nums1(nums.begin(),nums.end()-1);
         vector<int>nums2(nums.begin()+1,nums.end());
         vector<int>dp1(n,-1);
         vector<int>dp2(n,-1); 
-        nums.pop_back();
-        int a=d(n-2,nums1,dp1);
-        int b=d(n-2,nums2,dp2);
-        return max(a,b);
+        dp1[0]=nums1[0];
+        dp2[0]=nums2[0];
+        for(int i=1;i<n-1;i++){
+            int take1=nums1[i];if(i>1) take1+=dp1[i-2];
+            int non1=dp1[i-1];
+            dp1[i]=max(take1,non1);
+            int take2=nums2[i];if(i>1) take2+=dp2[i-2];
+            int non2=dp2[i-1];
+            dp2[i]=max(take2,non2);
+        }
+        return max(dp1[n-2],dp2[n-2]);
     }
 };
