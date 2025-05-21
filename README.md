@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Synoep/DSA-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Synoep/DSA-/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Synoep/DSA-/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/Synoep/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Synoep/DSA-/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Synoep/DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Synoep/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Synoep/DSA-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Synoep/DSA-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Synoep/DSA-/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Synoep/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Synoep/DSA-/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Synoep/DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Synoep/DSA-/tree/master/0142-linked-list-cycle-ii) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Synoep/DSA-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Synoep/DSA-/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Synoep/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Synoep/DSA-/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Synoep/DSA-/tree/master/1036-rotting-oranges) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Synoep/DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
