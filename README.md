@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Synoep/DSA-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Synoep/DSA-/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Synoep/DSA-/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/Synoep/DSA-/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Synoep/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Synoep/DSA-/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Synoep/DSA-/tree/master/0119-pascals-triangle-ii) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Synoep/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Synoep/DSA-/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Synoep/DSA-/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Synoep/DSA-/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Synoep/DSA-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Synoep/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Synoep/DSA-/tree/master/0115-distinct-subsequences) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Synoep/DSA-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Synoep/DSA-/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Synoep/DSA-/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Synoep/DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Synoep/DSA-/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Synoep/DSA-/tree/master/1036-rotting-oranges) |
