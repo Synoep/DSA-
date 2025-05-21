@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Synoep/DSA-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Synoep/DSA-/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Synoep/DSA-/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Synoep/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Synoep/DSA-/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Synoep/DSA-/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Synoep/DSA-/tree/master/0096-unique-binary-search-trees) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Synoep/DSA-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Synoep/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Synoep/DSA-/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Synoep/DSA-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Synoep/DSA-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Synoep/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Synoep/DSA-/tree/master/0115-distinct-subsequences) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Synoep/DSA-/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Synoep/DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Synoep/DSA-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Synoep/DSA-/tree/master/3548-find-the-count-of-good-integers) |
