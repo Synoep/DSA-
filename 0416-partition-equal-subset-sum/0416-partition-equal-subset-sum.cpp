@@ -1,22 +1,27 @@
 class Solution {
 public:
-    bool canPartition(vector<int>& arr) {
-        int total = accumulate(arr.begin(), arr.end(), 0);
-        if (total % 2 != 0) return false;
-        int sum = total / 2;
-        int n = arr.size();
-        vector<bool> prev(sum + 1, false), curr(sum + 1, false);
-        prev[0] = true;  
-        for (int i = 1; i <= n; i++) {
-            curr[0] = true;  
-            for (int j = 1; j <= sum; j++) {
-                if (j < arr[i - 1])
-                    curr[j] = prev[j];
-                else
-                    curr[j] = prev[j] || prev[j - arr[i - 1]];
-            }
-            prev = curr;
-        }
-        return prev[sum];  
+    int d(int ind, int k, vector<int> &arr,vector<vector<int>> &dp){
+     
+    if(k==0) return true;
+    if(ind ==0) return arr[0] ==k;
+    if(dp[ind][k]!=-1) return dp[ind][k];
+
+    bool ntake=d(ind-1,k,arr,dp);
+    bool take=false;
+    if(k>=arr[ind]){
+        take=d(ind-1,k-arr[ind],arr,dp);
+
+    }
+    return dp[ind][k]=take||ntake;
+
+}
+    bool canPartition(vector<int>& nums) {
+        int sum=0;
+        for(int i=0;i<nums.size();i++) sum+=nums[i];
+        if(sum%2!=0) return false;
+        int target=sum/2;
+        vector<vector<int>> dp(nums.size(), vector<int>(target+1,-1));
+        return d(nums.size()-1,target,nums,dp);
+
     }
 };
