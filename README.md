@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Synoep/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Synoep/DSA-/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Synoep/DSA-/tree/master/0043-multiply-strings) |
+| [0072-edit-distance](https://github.com/Synoep/DSA-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Synoep/DSA-/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Synoep/DSA-/tree/master/0115-distinct-subsequences) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Synoep/DSA-/tree/master/0166-fraction-to-recurring-decimal) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Synoep/DSA-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Synoep/DSA-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Synoep/DSA-/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Synoep/DSA-/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Synoep/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Synoep/DSA-/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Synoep/DSA-/tree/master/0119-pascals-triangle-ii) |
