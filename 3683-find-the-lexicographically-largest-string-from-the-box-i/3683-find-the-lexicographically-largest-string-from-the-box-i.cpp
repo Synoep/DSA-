@@ -1,5 +1,6 @@
 class Solution {
 public:
+//rr
     string answerString(string word, int numFriends) {
         if (numFriends == 1) return word;
         string res = "";
