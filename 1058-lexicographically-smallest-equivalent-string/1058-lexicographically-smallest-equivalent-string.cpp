@@ -1,6 +1,6 @@
 class Solution {
 public:
-char FindingSmallest(unordered_map<int,vector<int>>&graph,int t){
+char fd(unordered_map<int,vector<int>>&graph,int t){
     queue<int>Q;
     int mini=INT_MAX;
     unordered_set<int>visit;
@@ -28,7 +28,7 @@ char FindingSmallest(unordered_map<int,vector<int>>&graph,int t){
         string res="";
         for(auto it:baseStr){
             int d=it;
-            res.push_back(FindingSmallest(graph,d));
+            res.push_back(fd(graph,d));
         }
         return res;
     }
