@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Synoep/DSA-/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Synoep/DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Synoep/DSA-/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Synoep/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Synoep/DSA-/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/Synoep/DSA-/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Synoep/DSA-/tree/master/0416-partition-equal-subset-sum) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Synoep/DSA-/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Synoep/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Synoep/DSA-/tree/master/0166-fraction-to-recurring-decimal) |
+| [0347-top-k-frequent-elements](https://github.com/Synoep/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Synoep/DSA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Synoep/DSA-/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/Synoep/DSA-/tree/master/0496-next-greater-element-i) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Synoep/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [1160-letter-tile-possibilities](https://github.com/Synoep/DSA-/tree/master/1160-letter-tile-possibilities) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Synoep/DSA-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Synoep/DSA-/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Synoep/DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Synoep/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [2434-design-a-number-container-system](https://github.com/Synoep/DSA-/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Synoep/DSA-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Synoep/DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Synoep/DSA-/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Synoep/DSA-/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Synoep/DSA-/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/Synoep/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Synoep/DSA-/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Synoep/DSA-/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Synoep/DSA-/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -644,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Synoep/DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Synoep/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Synoep/DSA-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Synoep/DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
@@ -835,8 +841,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Synoep/DSA-/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Synoep/DSA-/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Synoep/DSA-/tree/master/0164-maximum-gap) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Synoep/DSA-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
