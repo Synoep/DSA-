@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Synoep/DSA-/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Synoep/DSA-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Synoep/DSA-/tree/master/3637-count-number-of-balanced-permutations) |
+| [3817-maximum-containers-on-a-ship](https://github.com/Synoep/DSA-/tree/master/3817-maximum-containers-on-a-ship) |
 | [3840-find-x-value-of-array-ii](https://github.com/Synoep/DSA-/tree/master/3840-find-x-value-of-array-ii) |
 ## Counting
 |  |
