@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Synoep/DSA-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Synoep/DSA-/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Synoep/DSA-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Synoep/DSA-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-closest-equal-element-queries](https://github.com/Synoep/DSA-/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Synoep/DSA-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Synoep/DSA-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Synoep/DSA-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Synoep/DSA-/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Synoep/DSA-/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Synoep/DSA-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Synoep/DSA-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
