@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Synoep/DSA-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3840-find-x-value-of-array-ii](https://github.com/Synoep/DSA-/tree/master/3840-find-x-value-of-array-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Synoep/DSA-/tree/master/3849-equal-sum-grid-partition-i) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/Synoep/DSA-/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Synoep/DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Synoep/DSA-/tree/master/3647-zero-array-transformation-iii) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Synoep/DSA-/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/Synoep/DSA-/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Ordered Set
 |  |
 | ------- |
