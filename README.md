@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Synoep/DSA-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Synoep/DSA-/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Synoep/DSA-/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/Synoep/DSA-/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Synoep/DSA-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Synoep/DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Synoep/DSA-/tree/master/0073-set-matrix-zeroes) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Synoep/DSA-/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Synoep/DSA-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Synoep/DSA-/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Synoep/DSA-/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Synoep/DSA-/tree/master/0179-largest-number) |
