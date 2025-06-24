@@ -900,4 +900,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Synoep/DSA-/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Synoep/DSA-/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
