@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Synoep/DSA-/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Synoep/DSA-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Synoep/DSA-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Synoep/DSA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Synoep/DSA-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Synoep/DSA-/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Synoep/DSA-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Synoep/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Synoep/DSA-/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Synoep/DSA-/tree/master/0455-assign-cookies) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Synoep/DSA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Synoep/DSA-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Synoep/DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Synoep/DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Synoep/DSA-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Synoep/DSA-/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Synoep/DSA-/tree/master/0908-middle-of-the-linked-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Synoep/DSA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Synoep/DSA-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Synoep/DSA-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Synoep/DSA-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Synoep/DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Synoep/DSA-/tree/master/0367-valid-perfect-square) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Synoep/DSA-/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Synoep/DSA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Synoep/DSA-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Synoep/DSA-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Synoep/DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
