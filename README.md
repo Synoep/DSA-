@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Synoep/DSA-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Synoep/DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Synoep/DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Synoep/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Synoep/DSA-/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Synoep/DSA-/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Synoep/DSA-/tree/master/0120-triangle) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Synoep/DSA-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Synoep/DSA-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Synoep/DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Synoep/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0733-flood-fill](https://github.com/Synoep/DSA-/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Synoep/DSA-/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Synoep/DSA-/tree/master/0967-minimum-falling-path-sum) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Synoep/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Synoep/DSA-/tree/master/0074-search-a-2d-matrix) |
 | [0096-unique-binary-search-trees](https://github.com/Synoep/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Synoep/DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/Synoep/DSA-/tree/master/0300-longest-increasing-subsequence) |
