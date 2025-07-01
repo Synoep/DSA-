@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Synoep/DSA-/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Synoep/DSA-/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Synoep/DSA-/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Synoep/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Synoep/DSA-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Synoep/DSA-/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Synoep/DSA-/tree/master/0040-combination-sum-ii) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Synoep/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/Synoep/DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Synoep/DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/Synoep/DSA-/tree/master/0300-longest-increasing-subsequence) |
