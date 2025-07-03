@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Synoep/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Synoep/DSA-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Synoep/DSA-/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Synoep/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Synoep/DSA-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Synoep/DSA-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Synoep/DSA-/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Synoep/DSA-/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Synoep/DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Synoep/DSA-/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Synoep/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Synoep/DSA-/tree/master/0733-flood-fill) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Synoep/DSA-/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Synoep/DSA-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Synoep/DSA-/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Synoep/DSA-/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Synoep/DSA-/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Synoep/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Synoep/DSA-/tree/master/0733-flood-fill) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Synoep/DSA-/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Synoep/DSA-/tree/master/0945-snakes-and-ladders) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Synoep/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Synoep/DSA-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Synoep/DSA-/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Synoep/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Synoep/DSA-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Synoep/DSA-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Synoep/DSA-/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Synoep/DSA-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Synoep/DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Synoep/DSA-/tree/master/0594-longest-harmonious-subsequence) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Synoep/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/Synoep/DSA-/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Synoep/DSA-/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Synoep/DSA-/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -640,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Synoep/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Synoep/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Synoep/DSA-/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Synoep/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/Synoep/DSA-/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Synoep/DSA-/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Synoep/DSA-/tree/master/0908-middle-of-the-linked-list) |
@@ -844,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Synoep/DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Synoep/DSA-/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Synoep/DSA-/tree/master/0410-split-array-largest-sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Synoep/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Synoep/DSA-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Synoep/DSA-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Synoep/DSA-/tree/master/1335-maximum-candies-allocated-to-k-children) |
