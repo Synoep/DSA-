@@ -1,8 +1,8 @@
 class Solution {
 public:
     int maxEvents(vector<vector<int>>& events) {
-         sort(events.begin(),events.end()); 
-        priority_queue<int, vector<int>, greater<int>> pq; 
+        sort(events.begin(),events.end()); 
+        priority_queue<int,vector<int>, greater<int>> pq; 
         int day=1,i=0,n=events.size(),res=0;
         while (i<n|| !pq.empty()) {
             while (i<n&&events[i][0]==day)
