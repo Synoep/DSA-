@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Synoep/DSA-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Synoep/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Synoep/DSA-/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Synoep/DSA-/tree/master/0801-is-graph-bipartite) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Synoep/DSA-/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Synoep/DSA-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Synoep/DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Synoep/DSA-/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Synoep/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Synoep/DSA-/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Synoep/DSA-/tree/master/0801-is-graph-bipartite) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Synoep/DSA-/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Synoep/DSA-/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Synoep/DSA-/tree/master/1036-rotting-oranges) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Synoep/DSA-/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Synoep/DSA-/tree/master/0801-is-graph-bipartite) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Synoep/DSA-/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Synoep/DSA-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Synoep/DSA-/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -917,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Synoep/DSA-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Synoep/DSA-/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Synoep/DSA-/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Synoep/DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Synoep/DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Synoep/DSA-/tree/master/2793-count-the-number-of-complete-components) |
