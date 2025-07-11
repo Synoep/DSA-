@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Synoep/DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Synoep/DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Synoep/DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/Synoep/DSA-/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Synoep/DSA-/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Synoep/DSA-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Synoep/DSA-/tree/master/2793-count-the-number-of-complete-components) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Synoep/DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Synoep/DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Synoep/DSA-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/Synoep/DSA-/tree/master/1753-path-with-minimum-effort) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Synoep/DSA-/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Synoep/DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Synoep/DSA-/tree/master/2793-count-the-number-of-complete-components) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Synoep/DSA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Synoep/DSA-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Synoep/DSA-/tree/master/1656-count-good-triplets) |
+| [1753-path-with-minimum-effort](https://github.com/Synoep/DSA-/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Synoep/DSA-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Synoep/DSA-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Synoep/DSA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Synoep/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Synoep/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Synoep/DSA-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1753-path-with-minimum-effort](https://github.com/Synoep/DSA-/tree/master/1753-path-with-minimum-effort) |
 | [2434-design-a-number-container-system](https://github.com/Synoep/DSA-/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Synoep/DSA-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Synoep/DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -817,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Synoep/DSA-/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Synoep/DSA-/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Synoep/DSA-/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Synoep/DSA-/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Synoep/DSA-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Synoep/DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Synoep/DSA-/tree/master/3227-find-missing-and-repeated-values) |
@@ -905,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Synoep/DSA-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Synoep/DSA-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Synoep/DSA-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1753-path-with-minimum-effort](https://github.com/Synoep/DSA-/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Synoep/DSA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Synoep/DSA-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Synoep/DSA-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -946,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Synoep/DSA-/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Synoep/DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/Synoep/DSA-/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Synoep/DSA-/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Synoep/DSA-/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Synoep/DSA-/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Synoep/DSA-/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
