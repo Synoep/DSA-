@@ -1,45 +1,35 @@
-const int mod=1e9+7;
-using int2=pair<unsigned long long, int>;
-vector<int2> adj[200];
 class Solution {
 public:
-    unsigned long long dijkstra(int start, int n, unsigned long long* dist){
-        unsigned long long way[n];
-        memset(way, 0, sizeof(way));
-        priority_queue<int2, vector<int2>, greater<int2>> pq;
-        pq.emplace(0, start);
-        dist[start]=0;
-        way[start]=1;
-        while(!pq.empty()){
-            auto [d0, i]=pq.top();
+    int countPaths(int n, vector<vector<int>>& roads) {
+        vector<pair<int, int>> adj[n];
+        for (auto it : roads) {
+            adj[it[0]].push_back({it[1], it[2]});
+            adj[it[1]].push_back({it[0], it[2]});
+        }
+
+        using ll = long long;
+        priority_queue<pair<ll, int>, vector<pair<ll, int>>, greater<>> pq;
+        vector<ll> dist(n,LLONG_MAX);
+        vector<int> ways(n,0);
+        int mod=1e9+7;
+        dist[0]=0;
+        ways[0]=1;
+        pq.push({0,0});
+        while (!pq.empty()) {
+            auto [d, node] = pq.top();
             pq.pop();
-            for(auto [d2, j]:adj[i]){
-                unsigned long long newD=d0+d2;
-                if (newD<dist[j]){// path thru i, j
-                    dist[j]=newD;
-                    way[j]=way[i];
-                    pq.emplace(newD, j);
-                }
-                else if( newD==dist[j]){
-                    way[j]+=way[i]; // paths thru i & not thru i
-                    way[j]%=mod;
+            for (auto& [adjNode,wt]:adj[node]) {
+                ll newDist=d+wt;
+                if (newDist<dist[adjNode]) {
+                    dist[adjNode]=newDist;
+                    pq.push({newDist,adjNode});
+                    ways[adjNode]=ways[node];
+                } else if (newDist==dist[adjNode]) {
+                    ways[adjNode]=(ways[adjNode] + ways[node]) % mod;
                 }
             }
         }
-        return way[n-1];
-    }
-    int countPaths(int n, vector<vector<int>>& roads) {
-        for(int i=0; i<n; i++)
-            adj[i].clear();
-            
-        for (auto& e: roads){
-            int u=e[0], v=e[1];
-            unsigned long long time=e[2];
-            adj[u].emplace_back(time, v);
-            adj[v].emplace_back(time, u);
-        }
-        unsigned long long dist[200];
-        fill(dist, dist+n, ULLONG_MAX);
-        return dijkstra(0, n, dist);
+
+        return ways[n-1];
     }
 };
