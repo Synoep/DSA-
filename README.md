@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Synoep/DSA-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3750-closest-equal-element-queries](https://github.com/Synoep/DSA-/tree/master/3750-closest-equal-element-queries) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Synoep/DSA-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Synoep/DSA-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3795-zero-array-transformation-iv](https://github.com/Synoep/DSA-/tree/master/3795-zero-array-transformation-iv) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Synoep/DSA-/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Synoep/DSA-/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/Synoep/DSA-/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Synoep/DSA-/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Synoep/DSA-/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Synoep/DSA-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Synoep/DSA-/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Synoep/DSA-/tree/master/3849-equal-sum-grid-partition-i) |
 ## Greedy
@@ -1034,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Synoep/DSA-/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Synoep/DSA-/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Synoep/DSA-/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Synoep/DSA-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3849-equal-sum-grid-partition-i](https://github.com/Synoep/DSA-/tree/master/3849-equal-sum-grid-partition-i) |
 ## Binary Indexed Tree
 |  |
@@ -1043,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Synoep/DSA-/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Synoep/DSA-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3840-find-x-value-of-array-ii](https://github.com/Synoep/DSA-/tree/master/3840-find-x-value-of-array-ii) |
 ## Monotonic Queue
 |  |
