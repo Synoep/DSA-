@@ -1,18 +1,19 @@
 class Solution {
-public: 
+public:
+    int d(int ind,vector<int>& nums,vector<int> &dp){
+        //memo
+        if(ind==0) return nums[ind];
+        if(ind<0) return 0;
+        if(dp[ind]!=-1) return dp[ind];
+        
+        int take=d(ind-2,nums,dp) +nums[ind];
+        int non=d(ind-1,nums,dp)+0;
+        return dp[ind]= max(take,non);
+    }
+ 
     int rob(vector<int>& nums) {
-        // space optimize
         int n=nums.size();
-        int prev1=nums[0];
-        int prev2=0;
-        int curr=0;
-        for(int i=1;i<n;i++){
-            int pick=nums[i];if(i>1) pick+=prev2;
-            int non=0+prev1;
-            curr=max(pick,non);
-            prev2=prev1;
-            prev1=curr;
-        }
-        return prev1;
+        vector<int>dp(n,-1);
+        return d(n-1,nums,dp);
     }
 };
