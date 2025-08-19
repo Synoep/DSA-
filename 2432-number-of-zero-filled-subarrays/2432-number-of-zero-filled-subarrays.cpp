@@ -1,15 +1,14 @@
 class Solution {
 public:
     long long zeroFilledSubarray(vector<int>& nums) {
-        long long cnt=0,streak=0;
-        for (int num:nums) {
-            if (num==0) {
-                streak++;
-                cnt +=streak;
-            } else {
-                streak=0;
+        long long  count =0,s=0;
+        for(auto a:nums){
+            if(a==0){
+                s++;
+                count+=s;
             }
+            else s=0;
         }
-        return cnt;
+        return count;
     }
 };
