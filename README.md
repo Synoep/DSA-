@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Synoep/DSA-/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Synoep/DSA-/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/Synoep/DSA-/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Synoep/DSA-/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/Synoep/DSA-/tree/master/0859-design-circular-deque) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Synoep/DSA-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Synoep/DSA-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Synoep/DSA-/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Synoep/DSA-/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Synoep/DSA-/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Synoep/DSA-/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Synoep/DSA-/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Synoep/DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Synoep/DSA-/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -996,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Synoep/DSA-/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/Synoep/DSA-/tree/master/0830-largest-triangle-area) |
 ## Number Theory
 |  |
 | ------- |
